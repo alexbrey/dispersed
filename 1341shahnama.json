@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "https://raw.githubusercontent.com/alexbrey/dispersed/049ae308aea98fe7db9c35e69f7d0f611430ab2b/1341shahnama.json",
+	"@id": "https://raw.githubusercontent.com/alexbrey/dispersed/main/1341shahnama.json",
 	"@type": "sc:Manifest",
 	"label": "1341 Shahnama",
 	"metadata": [],
@@ -354,7 +354,7 @@
 				{
 					"@id": "http://8c16bfbf-9e2a-4b10-ba22-0009787a098f",
 					"@type": "sc:Canvas",
-					"label": "[35b]",
+					"label": "35b",
 					"height": 4639,
 					"width": 3943,
 					"images": [
@@ -404,7 +404,7 @@
 				{
 					"@id": "http://8d0b5e40-9834-4960-8bc1-0e197012fc9b",
 					"@type": "sc:Canvas",
-					"label": "[37a]",
+					"label": "37a",
 					"height": 2537,
 					"width": 2189,
 					"images": [
@@ -445,7 +445,7 @@
 				{
 					"@id": "http://9c415ec3-e402-4fb1-b829-e028483e00f6",
 					"@type": "sc:Canvas",
-					"label": "[37b]",
+					"label": "37b",
 					"height": 2537,
 					"width": 2146,
 					"images": [
@@ -479,6 +479,155 @@
 								"width": 2146
 							},
 							"on": "http://9c415ec3-e402-4fb1-b829-e028483e00f6"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://e6aace31-d8f1-44e9-b141-18318b116854",
+					"@type": "sc:Canvas",
+					"label": "79b",
+					"height": 4199,
+					"width": 3139,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://7a554773-7d08-46bf-ae27-d1eb40f29b65",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://ids.si.edu/ids/iiif/FS-5505_05/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://ids.si.edu/ids/iiif/FS-5505_05",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"supports": [
+												"sizeByH",
+												"sizeByW",
+												"sizeByForcedWh"
+											]
+										}
+									]
+								},
+								"height": 4199,
+								"width": 3139
+							},
+							"on": "http://e6aace31-d8f1-44e9-b141-18318b116854"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://95b04351-3c15-477d-becc-7f3102342598",
+					"@type": "sc:Canvas",
+					"label": "86a",
+					"height": 1024,
+					"width": 861,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://4a31c441-e492-4d8a-8712-7b1b8537f3ac",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://ids.lib.harvard.edu/ids/iiif/18481974/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://ids.lib.harvard.edu/ids/iiif/18481974",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"supports": [
+												"canonicalLinkHeader",
+												"profileLinkHeader",
+												"mirroring",
+												"rotationArbitrary",
+												"regionSquare",
+												"sizeAboveFull"
+											],
+											"qualities": [
+												"default",
+												"bitonal",
+												"gray",
+												"color"
+											],
+											"formats": [
+												"jpg",
+												"tif",
+												"png",
+												"gif",
+												"webp"
+											]
+										}
+									]
+								},
+								"height": 1024,
+								"width": 861
+							},
+							"on": "http://95b04351-3c15-477d-becc-7f3102342598"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://ce7610bb-024b-4b62-9013-2c43041f1b79",
+					"@type": "sc:Canvas",
+					"label": "86b",
+					"height": 1024,
+					"width": 870,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://c7ccc34c-556c-4d49-9dea-6091b114c05c",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://ids.lib.harvard.edu/ids/iiif/18481973/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://ids.lib.harvard.edu/ids/iiif/18481973",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"supports": [
+												"canonicalLinkHeader",
+												"profileLinkHeader",
+												"mirroring",
+												"rotationArbitrary",
+												"regionSquare",
+												"sizeAboveFull"
+											],
+											"qualities": [
+												"default",
+												"bitonal",
+												"gray",
+												"color"
+											],
+											"formats": [
+												"jpg",
+												"tif",
+												"png",
+												"gif",
+												"webp"
+											]
+										}
+									]
+								},
+								"height": 1024,
+								"width": 870
+							},
+							"on": "http://ce7610bb-024b-4b62-9013-2c43041f1b79"
 						}
 					],
 					"related": ""
