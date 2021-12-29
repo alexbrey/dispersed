@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "https://raw.githubusercontent.com/alexbrey/dispersed/main/1341shahnama.json",
+	"@id": "https://raw.githubusercontent.com/alexbrey/dispersed/049ae308aea98fe7db9c35e69f7d0f611430ab2b/1341shahnama.json",
 	"@type": "sc:Manifest",
 	"label": "1341 Shahnama",
 	"metadata": [],
