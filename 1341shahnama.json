@@ -631,6 +631,164 @@
 						}
 					],
 					"related": ""
+				},
+				{
+					"@id": "http://9bb5e12c-a004-4732-bd15-5d8a42541526",
+					"@type": "sc:Canvas",
+					"label": "[105b]",
+					"height": 3527,
+					"width": 2988,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://9201272c-8c8c-4fa9-bbd5-6befb9a9b2af",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://media.britishmuseum.org/iiif/Repository/Documents/2014_10/1_13/2596e361_e618_44f8_8931_a3b700d934e5/00065683_001.ptif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://media.britishmuseum.org/iiif/Repository/Documents/2014_10/1_13/2596e361_e618_44f8_8931_a3b700d934e5/00065683_001.ptif",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring",
+												"gray"
+											]
+										}
+									]
+								},
+								"height": 3527,
+								"width": 2988
+							},
+							"on": "http://9bb5e12c-a004-4732-bd15-5d8a42541526"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://0f705763-3cb4-4f1c-918a-c88a4bd32423",
+					"@type": "sc:Canvas",
+					"label": "113a",
+					"height": 1024,
+					"width": 895,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://0253300f-5ca6-4331-b340-4f3449d15604",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://ids.lib.harvard.edu/ids/iiif/18481976/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://ids.lib.harvard.edu/ids/iiif/18481976",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"supports": [
+												"canonicalLinkHeader",
+												"profileLinkHeader",
+												"mirroring",
+												"rotationArbitrary",
+												"regionSquare",
+												"sizeAboveFull"
+											],
+											"qualities": [
+												"default",
+												"bitonal",
+												"gray",
+												"color"
+											],
+											"formats": [
+												"jpg",
+												"tif",
+												"png",
+												"gif",
+												"webp"
+											]
+										}
+									]
+								},
+								"height": 1024,
+								"width": 895
+							},
+							"on": "http://0f705763-3cb4-4f1c-918a-c88a4bd32423"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://83d6b089-3245-49c8-bc32-5be9abc29bcf",
+					"@type": "sc:Canvas",
+					"label": "113b",
+					"height": 1024,
+					"width": 894,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://489935d4-95ab-4c89-bcb1-98580ea58c01",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://ids.lib.harvard.edu/ids/iiif/18481975/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://ids.lib.harvard.edu/ids/iiif/18481975",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"supports": [
+												"canonicalLinkHeader",
+												"profileLinkHeader",
+												"mirroring",
+												"rotationArbitrary",
+												"regionSquare",
+												"sizeAboveFull"
+											],
+											"qualities": [
+												"default",
+												"bitonal",
+												"gray",
+												"color"
+											],
+											"formats": [
+												"jpg",
+												"tif",
+												"png",
+												"gif",
+												"webp"
+											]
+										}
+									]
+								},
+								"height": 1024,
+								"width": 894
+							},
+							"on": "http://83d6b089-3245-49c8-bc32-5be9abc29bcf"
+						}
+					],
+					"related": ""
 				}
 			]
 		}
