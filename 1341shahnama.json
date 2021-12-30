@@ -789,6 +789,754 @@
 						}
 					],
 					"related": ""
+				},
+				{
+					"@id": "http://b5807ba5-78dc-4f45-b32a-f955008cb7d8",
+					"@type": "sc:Canvas",
+					"label": "125a",
+					"height": 8460,
+					"width": 6690,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://319bc756-afd1-431c-b15b-4836cec26d8f",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://ids.si.edu/ids/iiif/FS-8182_05/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://ids.si.edu/ids/iiif/FS-8182_05",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"supports": [
+												"sizeByH",
+												"sizeByW",
+												"sizeByForcedWh"
+											]
+										}
+									]
+								},
+								"height": 8460,
+								"width": 6690
+							},
+							"on": "http://b5807ba5-78dc-4f45-b32a-f955008cb7d8"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://6127d01f-65e3-4c23-a228-ab470d82be46",
+					"@type": "sc:Canvas",
+					"label": "125b",
+					"height": 2537,
+					"width": 1976,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://13b8993b-7173-4b9f-ade8-3541faa4049f",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://ids.si.edu/ids/iiif/FS-5499_09/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://ids.si.edu/ids/iiif/FS-5499_09",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"supports": [
+												"sizeByH",
+												"sizeByW",
+												"sizeByForcedWh"
+											]
+										}
+									]
+								},
+								"height": 2537,
+								"width": 1976
+							},
+							"on": "http://6127d01f-65e3-4c23-a228-ab470d82be46"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://adb998a2-4496-47b1-b675-1d6b3e572e3b",
+					"@type": "sc:Canvas",
+					"label": "132a",
+					"height": 3600,
+					"width": 2939,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://09839747-5772-4184-bd77-c297f5f131dd",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://ids.si.edu/ids/iiif/FS-7371_05/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://ids.si.edu/ids/iiif/FS-7371_05",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"supports": [
+												"sizeByH",
+												"sizeByW",
+												"sizeByForcedWh"
+											]
+										}
+									]
+								},
+								"height": 3600,
+								"width": 2939
+							},
+							"on": "http://adb998a2-4496-47b1-b675-1d6b3e572e3b"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://228bbaf0-b91e-4939-90f6-49a609aaab1b",
+					"@type": "sc:Canvas",
+					"label": "132b",
+					"height": 3600,
+					"width": 2940,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://c438f5bc-3f69-4dfd-a466-db9dadc2ecb0",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://ids.si.edu/ids/iiif/FS-7371_06/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://ids.si.edu/ids/iiif/FS-7371_06",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"supports": [
+												"sizeByH",
+												"sizeByW",
+												"sizeByForcedWh"
+											]
+										}
+									]
+								},
+								"height": 3600,
+								"width": 2940
+							},
+							"on": "http://228bbaf0-b91e-4939-90f6-49a609aaab1b"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://573dcec1-1f02-4a4d-96c2-95e971b9f8f8",
+					"@type": "sc:Canvas",
+					"label": "139a",
+					"height": 3600,
+					"width": 2980,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://5a830932-50fa-470d-b454-9db17104e212",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://ids.si.edu/ids/iiif/FS-7370_47/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://ids.si.edu/ids/iiif/FS-7370_47",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"supports": [
+												"sizeByH",
+												"sizeByW",
+												"sizeByForcedWh"
+											]
+										}
+									]
+								},
+								"height": 3600,
+								"width": 2980
+							},
+							"on": "http://573dcec1-1f02-4a4d-96c2-95e971b9f8f8"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://b6c01f0c-28bd-4d31-8f61-ca89f65aa52b",
+					"@type": "sc:Canvas",
+					"label": "141a",
+					"height": 3600,
+					"width": 2838,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://9b7516e9-cc6f-424e-99dc-c72b5b39cd8c",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://ids.si.edu/ids/iiif/FS-7356_13/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://ids.si.edu/ids/iiif/FS-7356_13",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"supports": [
+												"sizeByH",
+												"sizeByW",
+												"sizeByForcedWh"
+											]
+										}
+									]
+								},
+								"height": 3600,
+								"width": 2838
+							},
+							"on": "http://b6c01f0c-28bd-4d31-8f61-ca89f65aa52b"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://cb266705-539a-4d18-8718-7dc4467f30a9",
+					"@type": "sc:Canvas",
+					"label": "141b",
+					"height": 3600,
+					"width": 2806,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://724a58f1-983e-41d3-8ebc-2e2ceafacfd1",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://ids.si.edu/ids/iiif/FS-7356_12/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://ids.si.edu/ids/iiif/FS-7356_12",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"supports": [
+												"sizeByH",
+												"sizeByW",
+												"sizeByForcedWh"
+											]
+										}
+									]
+								},
+								"height": 3600,
+								"width": 2806
+							},
+							"on": "http://cb266705-539a-4d18-8718-7dc4467f30a9"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://4da48ff9-3c54-4410-9862-b45477f28045",
+					"@type": "sc:Canvas",
+					"label": "147a",
+					"height": 3600,
+					"width": 2924,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://1899a3da-ca23-4666-b234-a718a44c5119",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://ids.si.edu/ids/iiif/FS-7371_01/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://ids.si.edu/ids/iiif/FS-7371_01",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"supports": [
+												"sizeByH",
+												"sizeByW",
+												"sizeByForcedWh"
+											]
+										}
+									]
+								},
+								"height": 3600,
+								"width": 2924
+							},
+							"on": "http://4da48ff9-3c54-4410-9862-b45477f28045"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://ae11d014-04ea-422c-b290-6f65111ca186",
+					"@type": "sc:Canvas",
+					"label": "147b",
+					"height": 3600,
+					"width": 2940,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://a8a7db2c-28e4-4aeb-bb7b-dee8784893a6",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://ids.si.edu/ids/iiif/FS-7371_02/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://ids.si.edu/ids/iiif/FS-7371_02",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"supports": [
+												"sizeByH",
+												"sizeByW",
+												"sizeByForcedWh"
+											]
+										}
+									]
+								},
+								"height": 3600,
+								"width": 2940
+							},
+							"on": "http://ae11d014-04ea-422c-b290-6f65111ca186"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://39369529-25ee-43dc-8f98-699b04d72d6e",
+					"@type": "sc:Canvas",
+					"label": "154a",
+					"height": 8286,
+					"width": 6896,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://14cc43e9-e5d9-4887-bba0-58b0fa71a47e",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://ids.si.edu/ids/iiif/FS-8182_03/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://ids.si.edu/ids/iiif/FS-8182_03",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"supports": [
+												"sizeByH",
+												"sizeByW",
+												"sizeByForcedWh"
+											]
+										}
+									]
+								},
+								"height": 8286,
+								"width": 6896
+							},
+							"on": "http://39369529-25ee-43dc-8f98-699b04d72d6e"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://8d45c7d9-2569-4116-a74b-8e2c8e399a62",
+					"@type": "sc:Canvas",
+					"label": "164a",
+					"height": 3600,
+					"width": 2957,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://3412f159-2ed6-49a7-99b8-9c7442cbdd4e",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://ids.si.edu/ids/iiif/FS-7370_48/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://ids.si.edu/ids/iiif/FS-7370_48",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"supports": [
+												"sizeByH",
+												"sizeByW",
+												"sizeByForcedWh"
+											]
+										}
+									]
+								},
+								"height": 3600,
+								"width": 2957
+							},
+							"on": "http://8d45c7d9-2569-4116-a74b-8e2c8e399a62"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://6ce23888-af36-4ae8-abf9-7d27c4dd0bc8",
+					"@type": "sc:Canvas",
+					"label": "164b",
+					"height": 3600,
+					"width": 2951,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://b7d88785-d2e8-4902-a8b8-ccf9e37471ad",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://ids.si.edu/ids/iiif/FS-7370_49/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://ids.si.edu/ids/iiif/FS-7370_49",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"supports": [
+												"sizeByH",
+												"sizeByW",
+												"sizeByForcedWh"
+											]
+										}
+									]
+								},
+								"height": 3600,
+								"width": 2951
+							},
+							"on": "http://6ce23888-af36-4ae8-abf9-7d27c4dd0bc8"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://6d163fed-8f1d-4de5-b014-7d34bcbd43b8",
+					"@type": "sc:Canvas",
+					"label": "165a",
+					"height": 3600,
+					"width": 2977,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://4c35e2cb-2557-4dea-bbb9-f157b7222b95",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://ids.si.edu/ids/iiif/FS-7394_43/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://ids.si.edu/ids/iiif/FS-7394_43",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"supports": [
+												"sizeByH",
+												"sizeByW",
+												"sizeByForcedWh"
+											]
+										}
+									]
+								},
+								"height": 3600,
+								"width": 2977
+							},
+							"on": "http://6d163fed-8f1d-4de5-b014-7d34bcbd43b8"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://8679a77d-9873-46cb-84b2-7c1530f06172",
+					"@type": "sc:Canvas",
+					"label": "165b",
+					"height": 3600,
+					"width": 2912,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://fa2bb25e-064f-4f34-bf08-7bc127ef4521",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://ids.si.edu/ids/iiif/FS-7394_42/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://ids.si.edu/ids/iiif/FS-7394_42",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"supports": [
+												"sizeByH",
+												"sizeByW",
+												"sizeByForcedWh"
+											]
+										}
+									]
+								},
+								"height": 3600,
+								"width": 2912
+							},
+							"on": "http://8679a77d-9873-46cb-84b2-7c1530f06172"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://637d63f2-d7bd-454b-bf0b-df769116e02b",
+					"@type": "sc:Canvas",
+					"label": "195b",
+					"height": 3000,
+					"width": 2462,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://2d712028-230e-47e6-a6ca-dff87d2e28b0",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://www.artic.edu/iiif/2/1233450f-1066-83ec-0a18-64266a659971/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://www.artic.edu/iiif/2/1233450f-1066-83ec-0a18-64266a659971",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 3000,
+								"width": 2462
+							},
+							"on": "http://637d63f2-d7bd-454b-bf0b-df769116e02b"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://86d65c37-2048-406a-b91e-46f403218c12",
+					"@type": "sc:Canvas",
+					"label": "[216a]",
+					"height": 1024,
+					"width": 858,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://5a1497ad-096b-406d-abd0-b96fae3befe8",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://ids.lib.harvard.edu/ids/iiif/17804798/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://ids.lib.harvard.edu/ids/iiif/17804798",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"supports": [
+												"canonicalLinkHeader",
+												"profileLinkHeader",
+												"mirroring",
+												"rotationArbitrary",
+												"regionSquare",
+												"sizeAboveFull"
+											],
+											"qualities": [
+												"default",
+												"bitonal",
+												"gray",
+												"color"
+											],
+											"formats": [
+												"jpg",
+												"tif",
+												"png",
+												"gif",
+												"webp"
+											]
+										}
+									]
+								},
+								"height": 1024,
+								"width": 858
+							},
+							"on": "http://86d65c37-2048-406a-b91e-46f403218c12"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://c391f13b-b032-4681-8d8b-af647f641203",
+					"@type": "sc:Canvas",
+					"label": "[216b]",
+					"height": 1024,
+					"width": 852,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://7d058ef0-19a9-499f-8eb9-925bad745c62",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://ids.lib.harvard.edu/ids/iiif/17804799/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://ids.lib.harvard.edu/ids/iiif/17804799",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"supports": [
+												"canonicalLinkHeader",
+												"profileLinkHeader",
+												"mirroring",
+												"rotationArbitrary",
+												"regionSquare",
+												"sizeAboveFull"
+											],
+											"qualities": [
+												"default",
+												"bitonal",
+												"gray",
+												"color"
+											],
+											"formats": [
+												"jpg",
+												"tif",
+												"png",
+												"gif",
+												"webp"
+											]
+										}
+									]
+								},
+								"height": 1024,
+								"width": 852
+							},
+							"on": "http://c391f13b-b032-4681-8d8b-af647f641203"
+						}
+					],
+					"related": ""
 				}
 			]
 		}
