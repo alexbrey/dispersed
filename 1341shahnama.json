@@ -1746,5 +1746,6 @@
 			]
 		}
 	],
-	"structures": []
+	"structures": [],
+	"viewingDirection": "right-to-left"
 }
